@@ -1,0 +1,7 @@
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase2\tutorialcsharp\csharp_holamundo_tutorial\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase2\tutorialcsharp\csharp_holamundo_tutorial\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase2\tutorialcsharp\csharp_holamundo_tutorial\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase2\tutorialcsharp\csharp_holamundo_tutorial\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase2\tutorialcsharp\csharp_holamundo_tutorial\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase2\tutorialcsharp\csharp_holamundo_tutorial\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase2\tutorialcsharp\csharp_holamundo_tutorial\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
